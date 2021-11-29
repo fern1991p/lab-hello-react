@@ -1,0 +1,40 @@
+* {
+  margin: 10px;
+}
+
+.header {
+  background-color: #282c34;
+  text-align: left;
+
+}
+
+.middle{
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+  height: 100px;
+  text-align: left;
+}
+
+.backgroundclass {
+  background-color: #282c34;
+  font-size: 20px; 
+  color:white;
+  padding: 10px;
+  text-align: left;
+}
+
+.centered{
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  font-size: 90px;
+}
+.btn{
+  background-color: white;
+  margin: 20px;
+  padding: 20px;
+  font-size: large;
+  font-weight: bold;
+}
